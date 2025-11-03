@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Data files
+dataset/
+voice_features.csv
+
+# Model files
+*.pkl
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+*.log
